@@ -2,7 +2,9 @@
 
 https://www.linkedin.com/learning/learning-kotlin-for-android-development
 
-Учебный проект по курсу Learning Kotlin for Android Development
+Учебный проект по курсу Learning Kotlin for Android Development  
+
+#kotlin #pixabayAPI #retrofit
 
 ### Learning Objectives:  
 Setting up Kotlin  
